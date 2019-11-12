@@ -8,6 +8,7 @@ export default class Links extends Component {
                 <a href="https://github.com/colinbowen" target="_blank" rel="noopener noreferrer" class="top-left">GitHub</a>
                 <a href="https://www.linkedin.com/in/mrcolinbowen/" target="_blank" rel="noopener noreferrer" class="top-right">LinkedIn</a>
                 <a href="https://colinbowen.uk/" class="bottom-right">Colin Bowen</a>
+                <a href="https://leetcode.com/colinbowen2/" class="bottom-left">LeetCode</a>
             </div>
         );
     }
